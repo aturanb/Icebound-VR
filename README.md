@@ -1,4 +1,4 @@
-# Icebound-VR# ICEBOUND VR
+# ICEBOUND VR
 
 This is a short, explorational VR Game where the player is one of the scientists stationed at the research lab on a snowy mountain. The lab is part of a larger research project funded by a private corporation, aimed at studying a new energy source, using a unique crystal found only in this region of the mountain. The experiments went wrong, causing a chain reaction that triggered the snowstorm and destroyed the research station. The lab has been set up in a remote location to avoid any interference from outsiders, and the scientists have been given a lot of freedom in their research. However, things have started to go wrong in the lab, and the player wakes up to find that a snowstorm has damaged the lab and all of the equipment. The other scientists are missing, and the player has lost their memory due to some sort of accident.
 
